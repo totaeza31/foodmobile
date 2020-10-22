@@ -1,2 +1,2 @@
 # foodmobile
-hybrid mobile web using osenUi,JS,Friebase 
+hybrid mobile web using osenUi,Js,Firebase 
